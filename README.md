@@ -1,4 +1,4 @@
-### <div align="center">Hi, my name is Žiga, python lover and working at Razum d.o.o.</div>  
+### <div align="center">Hi, my name is Žiga, python lover working at Razum d.o.o.</div>  
   
 <br/>  
 
