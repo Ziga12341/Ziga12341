@@ -33,10 +33,7 @@
 <br/>   
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ziga12341&&color=ff69b4&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=ziga12341&&color=c035c4&style=flat-square" align="center" />
 </div>  
 
 <br />
-
-![](https://komarev.com/ghpvc/?ziga12341&color=ff69b4&style=flat-square)
-![](https://hit.yhype.me/github/profile?user_id=69034686)
