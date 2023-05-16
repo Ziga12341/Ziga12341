@@ -1,5 +1,6 @@
 ### <div align="center">Hi, my name is Žiga, python lover and working at Razum d.o.o.</div>  
   
+<br/>  
 
 - 🔭 I’m currently working with Django and Selenium
   
