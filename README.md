@@ -30,7 +30,13 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ziga12341&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<br/>   
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=gasperfunda&&style=flat-square" align="center" />
+</div>  
+
+<br />
 
 ![](https://komarev.com/ghpvc/?ziga12341&color=ff69b4&style=flat-square)
 ![](https://hit.yhype.me/github/profile?user_id=69034686)
