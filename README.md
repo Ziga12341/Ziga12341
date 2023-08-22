@@ -5,7 +5,7 @@
 - 🔭 I’m currently working with Django and Selenium
   
 
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning kotlin
   
 
 - 🏐 I love cycling, workout, sports, GO (game) and hanging out with friends.
