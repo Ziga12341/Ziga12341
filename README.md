@@ -4,10 +4,10 @@
 
 
 <div>
-    🛠️ I’m currently working with Jetpack Compose UI 
+    🛠️ I’m currently working with AI projects and Jetpack Compose UI 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXLsPNGvUg9HsZIi8BVp3fPRBFPOE1hh_OoGbCRev326-nZOmUlPxtZjUjgJ9P6y0-05Y&usqp=CAU" alt="Jetpack Compose UI" style="width: 15px; height: 15px; display: inline; vertical-align: middle;">
 </div>
-🌱 I’m currently learning kotlin
+🌱 I’m currently learning AI
   
 
 🏐 I love cycling, workout, sports, GO (game) and hanging out with friends.
