@@ -24,14 +24,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
-  
-
-<br/>  
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ziga12341&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>   
+   
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ziga12341&&color=c035c4&style=flat-square" align="center" />
